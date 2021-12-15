@@ -29,10 +29,3 @@ Build and run the app:
 ![Game screenshot](screenshot.png)
 
 
-## Want to know more?
-
-If you liked this, you might like:
-
-* [Native Android drawing app written in Python](https://github.com/eliasdorneles/drawingapp-voc)
-* [Template for native Android apps written in Python](https://github.com/eliasdorneles/beeware-android-template)
-* [Video of a talk explaining how VOC works](https://www.youtube.com/watch?v=9c4DEYIXYCM)
